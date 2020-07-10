@@ -1,0 +1,37 @@
+**Starting Vending Machine Audit Log: 06/08/2020 06:49:03 AM**
+06/08/2020 06:49:11 AM FEED MONEY: $5.00 $5.00
+06/08/2020 06:49:15 AM Cola C1 $5.00 $3.75
+06/08/2020 06:49:19 AM Triplemint D4 $3.75 $3.00
+06/08/2020 06:49:21 AM GIVE CHANGE: $3.00 $0.00
+**Starting Vending Machine Audit Log: 06/08/2020 07:10:59 AM**
+06/08/2020 07:11:07 AM FEED MONEY: $10.00 $10.00
+06/08/2020 07:11:12 AM Crunchie B4 $10.00 $8.25
+06/08/2020 07:11:17 AM U-Chews D1 $8.25 $7.40
+06/08/2020 07:11:23 AM Potato Crisps A1 $7.40 $4.35
+06/08/2020 07:11:30 AM Cowtales B2 $4.35 $2.85
+06/08/2020 07:11:36 AM Little League Chew D2 $2.85 $1.90
+06/08/2020 07:11:41 AM Moonpie B1 $1.90 $0.10
+06/08/2020 07:11:44 AM GIVE CHANGE: $0.10 $0.00
+**Starting Vending Machine Audit Log: 06/08/2020 07:12:59 AM**
+06/08/2020 07:13:37 AM FEED MONEY: $5.00 $5.00
+06/08/2020 07:13:49 AM Little League Chew D2 $5.00 $4.05
+06/08/2020 07:13:52 AM Little League Chew D2 $4.05 $3.10
+06/08/2020 07:13:58 AM Cola C1 $3.10 $1.85
+06/08/2020 07:13:59 AM GIVE CHANGE: $1.85 $0.00
+**Starting Vending Machine Audit Log: 06/08/2020 07:26:00 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:27:44 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:32:35 AM**
+06/08/2020 07:33:19 AM GIVE CHANGE: $0.00 $0.00
+06/08/2020 07:33:50 AM FEED MONEY: $0.00 $0.00
+06/08/2020 07:34:01 AM FEED MONEY: $0.00 $0.00
+06/08/2020 07:34:17 AM FEED MONEY: $10.00 $10.00
+06/08/2020 07:34:19 AM FEED MONEY: $10.00 $20.00
+06/08/2020 07:34:22 AM FEED MONEY: $10.00 $30.00
+06/08/2020 07:34:25 AM FEED MONEY: $10.00 $40.00
+06/08/2020 07:34:27 AM FEED MONEY: $10.00 $50.00
+06/08/2020 07:34:30 AM GIVE CHANGE: $50.00 $0.00
+**Starting Vending Machine Audit Log: 06/08/2020 07:42:30 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:44:55 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:45:39 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:46:30 AM**
+**Starting Vending Machine Audit Log: 06/08/2020 07:46:53 AM**
